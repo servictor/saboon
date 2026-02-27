@@ -2,19 +2,19 @@
     {
       "title": "Programas Incentivados",
       "subtitle": "Participe de programas incentivados, patrocinadores de iniciativas.",
-      "image": "/images/carrossel-incentivados.png",
+      "image": "/images/incentivado.jpg",
       "order": 1
     },
     {
       "title": "Assinaturas",
       "subtitle": "Encontre a assinatura que se adequa à estratégia do seu negócio.",
-      "image": "/images/carrossel-assinaturas.png",
+      "image": "/images/assinatura.jpeg",
       "order": 2
     },
     {
       "title": "Horas Customizadas",
       "subtitle": "Customize pacotes de horas de acordo com o seu projeto de ERP.",
-      "image": "/images/carrossel-personalizado.png",
+      "image": "/images/contrato.png",
       "order": 3
     }
   ]
