@@ -1,0 +1,23 @@
+[
+    {
+      "group": "Some Group",
+      "title": "190,90",
+      "subtitle": "Teste",
+      "image": "/images/alguma-imagem.png",
+      "order": 1
+    },
+    {
+      "group": "Some Group",
+      "title": "190,90",
+      "subtitle": "Teste",
+      "image": "/images/alguma-imagem.png",
+      "order": 2
+    },
+    {
+      "group": "Some Group",
+      "title": "190,90",
+      "subtitle": "Teste",
+      "image": "/images/alguma-imagem.png",
+      "order": 3
+    }
+  ]
