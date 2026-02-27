@@ -2,19 +2,19 @@
     {
       "title": "Programas Incentivados",
       "subtitle": "Participe de programas incentivados, patrocinadores de iniciativas.",
-      "image": "/images/incentivado.jpg",
+      "image": "https://servictor.github.io/saboon/images/incentivado.jpg",
       "order": 1
     },
     {
       "title": "Assinaturas",
       "subtitle": "Encontre a assinatura que se adequa à estratégia do seu negócio.",
-      "image": "/images/assinatura.jpeg",
+      "image": "https://servictor.github.io/saboon/images/assinatura.jpeg",
       "order": 2
     },
     {
       "title": "Horas Customizadas",
       "subtitle": "Customize pacotes de horas de acordo com o seu projeto de ERP.",
-      "image": "/images/contrato.png",
+      "image": "https://servictor.github.io/saboon/images/contrato.png",
       "order": 3
     }
   ]
