@@ -1,20 +1,20 @@
 [
     {
-      "title": "Produtos disponiveis nacionalmente",
-      "subtitle": "Poupas de Frutas Congeladas",
-      "image": "/serviceimages/poupas-de-frutas.png",
+      "title": "Programas Incentivados",
+      "subtitle": "Participe de programas incentivados, pools de interessados patrocinam o desenvolvimento das demandas.",
+      "image": "/images/carrosel-incentivados.png",
       "order": 1
     },
     {
-      "title": "Customs Brokerage",
-      "subtitle": "Smooth import/export processes",
-      "image": "/serviceimages/image2.png",
+      "title": "Assinaturas",
+      "subtitle": "Encontre a assinatura que se adequa à estratégia do seu negócio.",
+      "image": "/images/carrossel-assinaturas.png",
       "order": 2
     },
     {
-      "title": "Trade Intermediation",
-      "subtitle": "Helping you close deals globally",
-      "image": "/serviceimages/image3.png",
+      "title": "Horas Customizadas",
+      "subtitle": "Customize pacotes de horas de acordo com o seu projeto de ERP.",
+      "image": "/images/carrossel-personalizado.png",
       "order": 3
     }
   ]
